@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns="http://tempuri.org/XMLSchema.xsd">
+	<NationalPark Rating="4.8">
+		<Name>Acadia</Name>
+		<Phone>207-288-3338</Phone>
+		<Phone>207-288-8791</Phone>
+		<Phone>207-288-8782</Phone>
+		<Address NearestAirport="HancockCounty">
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Name>Small Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Big Bend</Name>
+		<Phone>432-477-2251</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Panther Junction</Street>
+			<City>Big Bend National Park</City>
+			<State>TX</State>
+			<Zip>79834</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Biscayne</Name>
+		<Phone>786-335-3620</Phone>
+		<Address NearestAirport="Miami">
+			<Number>9700</Number>
+			<Street>SW 238th Street</Street>
+			<City>Homestead</City>
+			<State>FL</State>
+			<Zip>33033</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Yosemite National Park</Name>
+		<Address NearestAirport="Fresno">
+			<Number>9035</Number>
+			<Street>Village Dr</Street>
+			<City>Yosemite National Park</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone National Park</Name>
+		<Phone>307-344-7381</Phone>
+		<Address NearestAirport="Yellowstone">
+			<Number>2</Number>
+			<Street>Officers Row</Street>
+			<City>Yellowstone National Park</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Glacier National Park</Name>
+		<Phone>406-888-7800</Phone>
+		<Address NearestAirport="Glacier Park">
+			<Number>64</Number>
+			<Street>Grinnell Drive</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Rocky Mountain National Park</Name>
+		<Phone>970-586-1206</Phone>
+		<Address NearestAirport="Denver">
+			<Number>1000</Number>
+			<Street>US Hwy 36</Street>
+			<City>Estes Park</City>
+			<State>CO</State>
+			<Zip>80517</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Olympic National Park</Name>
+		<Phone>360-565-3130</Phone>
+		<Address NearestAirport="Seattle-Tacoma">
+			<Number>3002</Number>
+			<Street>Mt Angeles Rd</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Grand Teton National Park</Name>
+		<Phone>307-739-3300</Phone>
+		<Address NearestAirport="Jacskson">
+			<Number>100</Number>
+			<Street>Teton Park Rd</Street>
+			<City>Moose</City>
+			<State>WY</State>
+			<Zip>83012</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
