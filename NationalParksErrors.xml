@@ -68,7 +68,6 @@
 			<City>Yellowstone National Park</City>
 			<State>WY</State>
 			<Zip>82190</Zip>
-		</Address>
 	</NationalPark>
 	<NationalPark Rating="4.9">
 		<Name>Glacier National Park</Name>
